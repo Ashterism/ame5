@@ -1,0 +1,31 @@
+{
+  "title": "Western Balkans — 2 Week Trip",
+  "summary": "A scenic, kayaking-and-walking-focused loop through Slovenia, Bosnia, and Montenegro, budget £2,000 in-region.",
+  "stops": [
+    {
+      "place": "Ljubljana & Lake Bled, Slovenia",
+      "nights": 3,
+      "notes": "Walkable capital, alpine lake scenery, gentle pace to start the trip.",
+      "lat": 46.363598,
+      "lon": 14.093805
+    },
+    {
+      "place": "Mostar & Sarajevo, Bosnia and Herzegovina",
+      "nights": 4,
+      "notes": "Old town walking, Neretva River valley, possible gentle kayaking.",
+      "lat": 43.337290,
+      "lon": 17.815012
+    },
+    {
+      "place": "Kotor & Bay of Kotor, Montenegro",
+      "nights": 4,
+      "notes": "Bay kayaking, coastal walking, strong candidate for the kayaking focus of the trip.",
+      "lat": 42.424662,
+      "lon": 18.771234
+    }
+  ],
+  "open_questions": [
+    "Include a short Croatia leg (Zadar/Rovinj) or skip it entirely?"
+  ],
+  "last_updated": "2026-07-11"
+}
